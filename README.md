@@ -2,13 +2,17 @@
 <img src="./contributions.svg">
 
 
-- 👋 Hi, I’m Mehdi Behvar, I'm frontend developer In Iran
+<div style={textalign:center}>
+ <div>
+  - 👋 Hi, I’m Mehdi Behvar, I'm frontend developer In Iran
 - 👀 I’m interested in web developing
 - 🌱 I’m skilled in javascript and typescript.
 - 📚 I'm Fluent In Reactjs And Nextjs
 - 💞️ I’m looking to collaborate on development of webpages
 - 📫 my email is:mehdibehvar00@gmail.com
 - 💬 Currently I am Learning About PHP
+ </div>
+</div>
 
 
  html - css - bootstrap - material UI - javascript-typescript -react- next.js - npm -git -PWA
