@@ -14,4 +14,4 @@
  html - css - bootstrap - material UI - javascript-typescript -react- next.js - npm -git -PWA
 🔥 Languages & Frameworks & Tools & Abilities 🔥
 <hr>
-C# Javascript Problem Solving HTML5 CSS SASS Gulp React Redux Git .NetCore JQuery ReactNative Git
+C# Javascript Problem Solving HTML5 CSS SASS Gulp React Redux Git
