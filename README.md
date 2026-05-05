@@ -1,4 +1,5 @@
-<img src="./jonetravelta.gif" style="width: 100%; display: block;">
+<link href="./style.css" rel="stylesheet" />
+<img src="./jonetravelta.gif" style="marginLeft:auto">
 <img src="./contributions.svg">
 
 
