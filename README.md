@@ -1,7 +1,9 @@
 <link href="./style.css" rel="stylesheet" />
-<img src="./jonetravelta.gif" style="marginLeft:auto">
-<img src="./contributions.svg">
 
+<div style="text-align: center;">
+  <img src="./jonetravelta.gif" style="display: block; margin: 0 auto;">
+  <img src="./contributions.svg" style="display: block; margin: 0 auto;">
+</div>
 
 <div style="text-align: center;">
  <div>
